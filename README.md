@@ -19,7 +19,7 @@
 
 ### I have two decades of experience conducting innovative research and developing software.
 
-Focusing on [cryptocurrencies and blockchains technologies](https://github.com/aquario-crypto): engineering research, anlytics, economics, arts, philosophy, and civil rights. 
+Focusing on [cryptocurrencies and blockchains technologies](https://github.com/aquario-crypto): engineering research, analytics, economics, arts, philosophy, and civil rights. 
 
 
 <br>
