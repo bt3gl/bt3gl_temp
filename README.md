@@ -1,7 +1,7 @@
 
 <details>
 
-  <summary> ⇠ 𝙲𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎 𝚏𝚘𝚛 𝚏𝚕𝚎𝚡𝚒𝚗𝚐 𝚊𝚗𝚍 𝚏𝚛𝚒𝚎𝚗𝚍𝚜 ✨💎💾🙌🏼
+  <summary> ⇠ 𝙲𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎 𝚏𝚘𝚛 𝚏𝚒𝚗𝚒𝚝𝚎 𝚊𝚗𝚍 𝚒𝚗𝚏𝚒𝚗𝚒𝚝𝚎 𝚐𝚊𝚖𝚎𝚜 ✨💎💾🙌🏼
 <br> <br>
   
 <p align="center">
@@ -17,10 +17,11 @@
 <br>
 <br>
 
-### I have two decades of experience conducting innovative research and developing software.
-
-Focusing on [cryptocurrencies and blockchains technologies](https://github.com/aquario-crypto): engineering research, analytics, economics, arts, philosophy, and civil rights. 
-
+### I have been conducting research and developing software for the last two decades...
+  
+### I found my passion researching [decentralized web3 technologies](https://github.com/aquario-crypto): engineering, economics, arts, philosophy, and civil rights. 
+  
+### I found my dream job at [Shopify](https://shopify.engineering/), where I am the engineer lead at the Blockchain team.
 
 <br>
 <br>
@@ -61,7 +62,7 @@ Focusing on [cryptocurrencies and blockchains technologies](https://github.com/a
 
 ## Ph.D., Quantum Field Theory Books, LANL, BNL, New York
 
- * **first phd.**: in [Theoretical Physics](http://www.astro.sunysb.edu/steinkirch/index.html) (started with [String Theory](https://en.wikipedia.org/wiki/String_theory) and [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory) and ended up with Astrophysics) at [Stony Brook University, New York](https://www.stonybrook.edu/) (with a full-tuition scholarship).
+ * **first phd**: in [Theoretical Physics](http://www.astro.sunysb.edu/steinkirch/index.html) (started with [String Theory](https://en.wikipedia.org/wiki/String_theory) and [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory) and ended up with Astrophysics) at [Stony Brook University, New York](https://www.stonybrook.edu/) (with a full-tuition scholarship).
 
 * **second website**: [graduate website](http://www.astro.sunysb.edu/steinkirch/index.html).
 
@@ -125,12 +126,27 @@ Focusing on [cryptocurrencies and blockchains technologies](https://github.com/a
 * **first company (co-)founded**: [Curiee](https://web.archive.org/web/20201020221520/https://curiee.com/), a non-profit language-agnostic destination for hackers to learn, play, and publish quantum computing research. We even competed at the [Ycombinator](https://www.ycombinator.com/) hackathon once. We sold the company before it died out because of a global pandemic.
 
 * **third job at a startup, as a quantum platform engineer**: at [Zapata Computing](http://zapatacomputing.com/), working on quantum machine learning with [Alejandro Perdomo-Ortiz's]() team.
+  
+  
+ * **cities where i had my own place**: Sao Paulo, Santiago, Washington DC, New York, San Francisco, Cupertino, San Diego, Oahu, Maui, Malibu, Los Angeles, Kona, and Berlin.
 
 
-* **cities where i had my own place <3**: Sao Paulo, Santiago, Washington DC, New York, San Francisco, Cupertino, San Diego, Oahu, Maui, Malibu, Los Angeles, Kona, and Berlin.
+* **finite fun games**: snowboarding and writing.
 
 
-* **finite games**: [surf](https://www.notion.so/bt3glzone/Surfing-Planning-11615850630040579b02c48810497b28), [snowboarding](https://www.notion.so/bt3glzone/Snowboarding-Planning-caddce1be5b94f2eae6120e7200efa08), [skateboarding](https://www.notion.so/bt3glzone/Skateboarding-Planning-6ff5fdc1fd4c40c48acadc9add4e8130), [beat saber](https://bsaber.com/), and [chess](https://www.chess.com/member/bt3gl).
+<br>
+
+---
+  
+# 🖤✨ Contact
+  
+* [My twitter](https://twitter.com/mvonsteinkirch)
+* [My website](http://innermostlimits.com/)
+  
+
+*Thank you for reading!*
+
+
 
 <br>
 
