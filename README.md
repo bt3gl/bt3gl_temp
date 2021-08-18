@@ -126,12 +126,13 @@
 * **first company (co-)founded**: [Curiee](https://web.archive.org/web/20201020221520/https://curiee.com/), a non-profit language-agnostic destination for hackers to learn, play, and publish quantum computing research. We even competed at the [Ycombinator](https://www.ycombinator.com/) hackathon once. We sold the company before it died out because of a global pandemic.
 
 * **third job at a startup, as a quantum platform engineer**: at [Zapata Computing](http://zapatacomputing.com/), working on quantum machine learning with [Alejandro Perdomo-Ortiz's]() team.
+ 
+* **second company (co-)founded**: [Aquario Crypto LLC](http://aquariocrypto.com/), helping to build our decentralized future.
   
-  
- * **cities where i had my own place**: Sao Paulo, Santiago, Washington DC, New York, San Francisco, Cupertino, San Diego, Oahu, Maui, Malibu, Los Angeles, Kona, and Berlin.
+* **cities where i had my own place**: Sao Paulo, Santiago, Washington DC, New York, San Francisco, Cupertino, San Diego, Oahu, Maui, Malibu, Los Angeles, Kona, and Berlin.
 
 
-* **finite fun games**: snowboarding and writing.
+* **finite fun games**: snowboarding, existentialist art, writing.
 
 
 <br>
