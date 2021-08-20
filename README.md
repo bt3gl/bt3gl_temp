@@ -12,16 +12,18 @@
   
 </summary>
 
-# 💾✨ Infinite game 
+# 💾✨ Infinite game tl;dr
   
 <br>
 <br>
 
-* I have been conducting research and developing software for the last two decades...
+* I have been conducting scientific research, developing software, and playing with digital art for two decades.
   
-* I found my passion researching [decentralized web3 technologies](https://github.com/aquario-crypto): engineering, finances, arts, and civil rights. 
+* Everything comes together now with all the rims of [decentralized web3 technologies](https://github.com/aquario-crypto): engineering, finances, arts, civil rights. 
   
-* I found my dream job at [Shopify](https://shopify.engineering/), where I am leading our Blockchain engineering team.
+* I am very grateful for my *digital-by-design dream job* at [Shopify](https://shopify.engineering/), where I am leading our Blockchain engineering team.
+  
+* I spend lots of time thinking about existentialism, protopia, and the meaning of life... But I am a stoic in the heart.
 
 <br>
 <br>
@@ -127,7 +129,7 @@
 
 * **third job at a startup, as a quantum platform engineer**: at [Zapata Computing](http://zapatacomputing.com/), working on quantum machine learning with [Alejandro Perdomo-Ortiz's]() team.
  
-* **second company (co-)founded**: [Aquario Crypto LLC](http://aquariocrypto.com/), helping to build our decentralized future.
+* **second company (co-)founded**: [Aquario Crypto LLC](http://aquariolabs.com/), helping to build our decentralized future.
   
 * **cities where i had my own place**: Sao Paulo, Santiago, Washington DC, New York, San Francisco, Cupertino, San Diego, Oahu, Maui, Malibu, Los Angeles, Kona, and Berlin.
 
@@ -141,8 +143,10 @@
   
 # 🖤✨ Contact
   
-* [My twitter](https://twitter.com/mvonsteinkirch)
+
 * [My website](http://innermostlimits.com/)
+* [My keybase](https://keybase.io/bt3gl)
+* [My twitter](https://twitter.com/mvonsteinkirch)
   
 
 *Thank you for reading!*
