@@ -17,11 +17,11 @@
 <br>
 <br>
 
-### I have been conducting research and developing software for the last two decades...
+* I have been conducting research and developing software for the last two decades...
   
-### I found my passion researching [decentralized web3 technologies](https://github.com/aquario-crypto): engineering, economics, arts, philosophy, and civil rights. 
+* I found my passion researching [decentralized web3 technologies](https://github.com/aquario-crypto): engineering, finances, arts, and civil rights. 
   
-### I found my dream job at [Shopify](https://shopify.engineering/), where I am the engineer lead at the Blockchain team.
+* I found my dream job at [Shopify](https://shopify.engineering/), where I am leading our Blockchain engineering team.
 
 <br>
 <br>
