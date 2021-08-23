@@ -19,9 +19,9 @@
 
 * I have been conducting [scientific research](http://www.astro.sunysb.edu/steinkirch/), [developing software](https://github.com/aquario-crypto), and [playing with digital art](http://innermostlimits.com/) for two decades.
   
-* Everything comes together now with all the rims of [decentralized web3 technologies](http://aquariolabs.com/): engineering, finances, arts, civil rights. 
+* Everything comes together now with [decentralized web3 technologies](http://aquariolabs.com/): engineering, finances, arts, civil rights, and all that jazz.
   
-* I am very grateful for my *digital-by-design dream job* at [Shopify](https://shopify.engineering/), where I am leading our Blockchain engineering team.
+* I am very grateful for my *digital-by-design dream job* at [Shopify](https://shopify.engineering/), leading our Blockchain engineering team.
   
 * I spend lots of time [thinking about existentialism, protopia, and the meaning of life](https://substack.com/profile/5286301-mia-von-steinkirch)... But *I am a stoic in the heart*.
 
