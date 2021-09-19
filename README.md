@@ -17,13 +17,15 @@
 <br>
 <br>
 
-* I have been conducting [scientific research](http://www.astro.sunysb.edu/steinkirch/), [developing software](https://github.com/aquario-crypto), and [playing with digital art](http://innermostlimits.com/) for two decades.
+* I have been conducting [scientific research](http://www.astro.sunysb.edu/steinkirch/), [developing software](https://github.com/aquario-crypto), and [playing with digital art](http://innermostlimits.com/) for almost two decades.
   
 * Everything comes together now with [decentralized web3 technologies](http://aquariolabs.com/): engineering, finances, arts, civil rights, and all that jazz.
   
-* I am very grateful for my *digital-by-design dream job* at [Shopify](https://shopify.engineering/), leading our Blockchain engineering team.
+* I am very grateful for my *digital-by-design gig* at [Shopify](https://shopify.engineering/), as the Head of Blockchain Engineering.
   
 * I spend lots of time [thinking about existentialism, protopia, and the meaning of life](https://substack.com/profile/5286301-mia-von-steinkirch)... But *I am a stoic in the heart*.
+  
+* I am part of the [Launch House](https://www.launchhouse.co/) fam, helping to build and launch Web3 technology. Follow my [twitter](https://twitter.com/mvonsteinkirch) for updates on the projects I am building.
 
 <br>
 <br>
@@ -129,7 +131,7 @@
 
 * **third job at a startup, as a quantum platform engineer**: at [Zapata Computing](http://zapatacomputing.com/), working on quantum machine learning with [Alejandro Perdomo-Ortiz's]() team.
  
-* **second company (co-)founded**: [Aquario Crypto LLC](http://aquariolabs.com/), helping to build our decentralized future.
+* **second company Founded**: [Aquario Crypto DAO](http://aquariolabs.com/), my experimental LLC for all web3 and magick projects. I am part of [Launch House](https://www.launchhouse.co/), building a web3 creator platform.
   
 * **cities where i had my own place**: Sao Paulo, Santiago, Washington DC, New York, San Francisco, Cupertino, San Diego, Oahu, Maui, Malibu, Los Angeles, Kona, and Berlin.
 
