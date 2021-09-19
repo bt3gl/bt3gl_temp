@@ -131,7 +131,7 @@
 
 * **third job at a startup, as a quantum platform engineer**: at [Zapata Computing](http://zapatacomputing.com/), working on quantum machine learning with [Alejandro Perdomo-Ortiz's]() team.
  
-* **second company Founded**: [Aquario Crypto DAO](http://aquariolabs.com/), my experimental LLC for all web3 and magick projects. I am part of [Launch House](https://www.launchhouse.co/), building a web3 creator platform.
+* **second company founded**: [Aquario Crypto LLC](http://aquariolabs.com/), my experimental LLC for all web3 and magick projects, including [amigoDAO.house](amigoDAO.house). I am part of [Launch House](https://www.launchhouse.co/) DAO, building a web3 creator platform that will change the world.
   
 * **cities where i had my own place**: Sao Paulo, Santiago, Washington DC, New York, San Francisco, Cupertino, San Diego, Oahu, Maui, Malibu, Los Angeles, Kona, and Berlin.
 
