@@ -17,15 +17,15 @@
 <br>
 <br>
 
-* I have been conducting [scientific research](http://www.astro.sunysb.edu/steinkirch/), [developing software](https://github.com/aquario-crypto), and [playing with digital art](http://innermostlimits.com/) for almost two decades.
+* I have been conducting [scientific research](http://www.astro.sunysb.edu/steinkirch/), [developing software](https://github.com/aquario-crypto), and [playing with digital art](http://innermostlimits.com/) since mid-school.
   
-* Everything comes together now with [decentralized web3 technologies](http://aquariolabs.com/): engineering, finances, arts, civil rights, and all that jazz.
+* I love my *digital-by-design gig* at [Shopify](https://shopify.engineering/), as the Head of Blockchain Engineering. We are hiring!
   
-* I am very grateful for my *digital-by-design gig* at [Shopify](https://shopify.engineering/), as the Head of Blockchain Engineering.
+* I am part of the [Launch House](https://www.launchhouse.co/) fam, helping to build and launch [Web3 technology](http://aquariolabs.com/). Follow my [twitter](https://twitter.com/mvonsteinkirch) to learn what I do.
   
-* I spend lots of time [thinking about existentialism, protopia, and the meaning of life](https://substack.com/profile/5286301-mia-von-steinkirch)... But *I am a stoic in the heart*.
+* I spend lots of time [thinking about existentialism, protopia, and the meaning of life](https://substack.com/profile/5286301-mia-von-steinkirch)... I am nomad and *a stoic in the heart*.
   
-* I am part of the [Launch House](https://www.launchhouse.co/) fam, helping to build and launch Web3 technology. Follow my [twitter](https://twitter.com/mvonsteinkirch) for updates on the projects I am building.
+
 
 <br>
 <br>
